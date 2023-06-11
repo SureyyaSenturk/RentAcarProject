@@ -1,0 +1,13 @@
+POST http://localhost:8080/api/brands/add
+Authorization: Basic test3 test3
+Content-Type: application/json
+
+{
+  "name": "test"
+}
+
+###
+GET http://localhost:8080/api/brands/getAll
+Authorization: Basic test test
+
+
