@@ -14,6 +14,5 @@
  ### Front-End
  - React <br/>
  - TypeScript
- - ModelMapper
  - Tailwind Css
  - Axios
