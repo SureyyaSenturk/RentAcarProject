@@ -1,7 +1,7 @@
 package com.bilgeadam.rentacar.api.models;
 
-import com.bilgeadam.rentacar.payment.CreatePaymentRequest;
-import com.bilgeadam.rentacar.rentalcar.CreateRentalCarRequest;
+import com.bilgeadam.rentacar.request.CreatePaymentRequest;
+import com.bilgeadam.rentacar.request.CreateRentalCarRequest;
 import javax.validation.Valid;
 import lombok.AllArgsConstructor;
 import lombok.Getter;

@@ -1,12 +1,9 @@
 package com.bilgeadam.rentacar;
 
-import com.bilgeadam.rentacar.brand.Brand;
-import com.bilgeadam.rentacar.car.Car;
-import com.bilgeadam.rentacar.city.City;
-import com.bilgeadam.rentacar.city.CityRepository;
-import com.bilgeadam.rentacar.color.Color;
-import com.bilgeadam.rentacar.user.User;
-import com.bilgeadam.rentacar.user.UserRepository;
+import com.bilgeadam.rentacar.entity.City;
+import com.bilgeadam.rentacar.repository.CityRepository;
+import com.bilgeadam.rentacar.entity.User;
+import com.bilgeadam.rentacar.repository.UserRepository;
 import java.util.ArrayList;
 import java.util.List;
 import org.springframework.boot.context.event.ApplicationReadyEvent;

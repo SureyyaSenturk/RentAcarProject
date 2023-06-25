@@ -1,6 +1,6 @@
 package com.bilgeadam.rentacar.api.models;
 
-import com.bilgeadam.rentacar.payment.CreatePaymentRequest;
+import com.bilgeadam.rentacar.request.CreatePaymentRequest;
 import java.time.LocalDate;
 import javax.validation.Valid;
 import javax.validation.constraints.Min;

@@ -1,7 +1,7 @@
 package com.bilgeadam.rentacar.api.models;
 
-import com.bilgeadam.rentacar.invoice.InvoiceResponse;
-import com.bilgeadam.rentacar.rentalcar.RentalCarResponse;
+import com.bilgeadam.rentacar.response.InvoiceResponse;
+import com.bilgeadam.rentacar.response.RentalCarResponse;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

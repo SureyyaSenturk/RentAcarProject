@@ -3,7 +3,6 @@ package com.bilgeadam.rentacar.config.audit;
 import com.bilgeadam.rentacar.config.MyUserDetails;
 import java.util.Optional;
 
-import com.bilgeadam.rentacar.user.User;
 import org.springframework.data.domain.AuditorAware;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.context.SecurityContextHolder;

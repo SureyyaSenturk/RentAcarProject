@@ -1,12 +1,9 @@
 package com.bilgeadam.rentacar.common.mapper;
 
-import com.bilgeadam.rentacar.util.Mapper;
 import java.lang.reflect.ParameterizedType;
-import java.util.Collection;
 import java.util.List;
 import org.modelmapper.ModelMapper;
 import org.modelmapper.PropertyMap;
-import org.modelmapper.TypeMap;
 import org.springframework.stereotype.Component;
 
 @Component

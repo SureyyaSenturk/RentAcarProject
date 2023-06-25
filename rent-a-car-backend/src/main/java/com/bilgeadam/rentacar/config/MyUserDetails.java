@@ -1,6 +1,6 @@
 package com.bilgeadam.rentacar.config;
 
-import com.bilgeadam.rentacar.user.User;
+import com.bilgeadam.rentacar.entity.User;
 import java.util.Collection;
 import java.util.List;
 import org.springframework.security.core.GrantedAuthority;
