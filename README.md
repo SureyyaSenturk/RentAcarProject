@@ -6,7 +6,7 @@
  - SpringBoot <br/>
  - Spring-Security
  - ModelMapper
- - H2-Database
+ - Postgresql-Database
  - Spring-Jpa
  - OpenApi-Swagger
  - Spring-Validation
