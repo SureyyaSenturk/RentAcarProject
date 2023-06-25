@@ -1,7 +1,7 @@
 package com.bilgeadam.rentacar.controllers;
 
-import com.bilgeadam.rentacar.response.InvoiceResponse;
-import com.bilgeadam.rentacar.service.InvoiceService;
+import com.bilgeadam.rentacar.business.response.InvoiceResponse;
+import com.bilgeadam.rentacar.business.service.InvoiceService;
 import com.bilgeadam.rentacar.util.results.DataResult;
 import com.bilgeadam.rentacar.util.results.Result;
 import java.util.List;

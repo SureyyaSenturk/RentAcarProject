@@ -1,9 +1,7 @@
 package com.bilgeadam.rentacar.controllers;
 
-import com.bilgeadam.rentacar.api.models.CreateDelayedPaymentModel;
-import com.bilgeadam.rentacar.api.models.CreatePaymentModel;
-import com.bilgeadam.rentacar.response.PaymentResponse;
-import com.bilgeadam.rentacar.service.PaymentService;
+import com.bilgeadam.rentacar.business.response.PaymentResponse;
+import com.bilgeadam.rentacar.business.service.PaymentService;
 import com.bilgeadam.rentacar.util.results.DataResult;
 import com.bilgeadam.rentacar.util.results.Result;
 import java.util.List;

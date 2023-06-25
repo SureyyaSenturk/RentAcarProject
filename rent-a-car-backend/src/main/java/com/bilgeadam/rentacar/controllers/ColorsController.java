@@ -1,9 +1,9 @@
 package com.bilgeadam.rentacar.controllers;
 
-import com.bilgeadam.rentacar.response.ColorResponse;
-import com.bilgeadam.rentacar.service.ColorService;
-import com.bilgeadam.rentacar.request.CreateColorRequest;
-import com.bilgeadam.rentacar.request.UpdateColorRequest;
+import com.bilgeadam.rentacar.business.response.ColorResponse;
+import com.bilgeadam.rentacar.business.service.ColorService;
+import com.bilgeadam.rentacar.business.request.CreateColorRequest;
+import com.bilgeadam.rentacar.business.request.UpdateColorRequest;
 import com.bilgeadam.rentacar.util.results.DataResult;
 import com.bilgeadam.rentacar.util.results.Result;
 import java.util.List;
